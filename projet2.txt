@@ -1,2 +1,3 @@
 exercice :3 ==> question 3
-modification
+modification1
+modification2
