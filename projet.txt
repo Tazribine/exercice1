@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-first project in git 
-=======
+
 j'ai effectuer une modification dans ce fichiers de repository github .
->>>>>>> origin/master
